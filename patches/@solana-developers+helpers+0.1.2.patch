@@ -1,0 +1,20 @@
+diff --git a/node_modules/@solana-developers/helpers/dist/esm/lib/idl.js b/node_modules/@solana-developers/helpers/dist/esm/lib/idl.js
+index 1234567..abcdef0 100644
+--- a/node_modules/@solana-developers/helpers/dist/esm/lib/idl.js
++++ b/node_modules/@solana-developers/helpers/dist/esm/lib/idl.js
+@@ -1,5 +1,5 @@
+ import { Program } from '@coral-xyz/anchor';
+-import { Wallet } from '@coral-xyz/anchor';
++import { AnchorProvider } from '@coral-xyz/anchor';
+ import { Connection, PublicKey } from '@solana/web3.js';
+ 
+ /**
+@@ -14,7 +14,8 @@ export async function getProgramFromIdl(idl, programId, connection, wallet) {
+     if (!connection) {
+         connection = new Connection('https://api.mainnet-beta.solana.com', 'confirmed');
+     }
+-    const provider = new anchor.AnchorProvider(connection, wallet || new Wallet(Keypair.generate()), {});
++    // Use AnchorProvider instead of Wallet
++    const provider = new AnchorProvider(connection, wallet || { publicKey: PublicKey.default }, {});
+     return new Program(idl, new PublicKey(programId), provider);
+ }

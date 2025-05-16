@@ -43,7 +43,7 @@ Zoom out. Discover long-term trust trends, validator consistency, and early sign
 
 ### 🛠️ Validators
 
-> “This tool helped me understand *why* delegations were shifting. I plugged the holes and saw +32% growth in 3 weeks.” — *Maria, Solana Validator*
+> “This tool helped me understand *why* delegations were shifting. I plugged the holes and saw +32% growth in weeks.” 
 
 - Track stake inflows/outflows
 - Compare performance and rank trends
@@ -53,7 +53,7 @@ Zoom out. Discover long-term trust trends, validator consistency, and early sign
 
 ### 💰 Delegators
 
-> “I went from staking based on vibes to staking based on strategy. Huge difference.” — *James, SOL Holder*
+> “I went from staking based on vibes to staking based on strategy. Huge difference.”
 
 - Discover trustworthy, value-aligned validators
 - Rebalance your stake based on actual validator health
@@ -63,7 +63,7 @@ Zoom out. Discover long-term trust trends, validator consistency, and early sign
 
 ### 🧱 Ecosystem Teams
 
-> “We used StakeFlow insights to improve our validator onboarding pipeline. It changed the game.” — *Solana Foundation Member*
+> “We used StakeFlow insights to improve our validator onboarding pipeline. It changed the game.” 
 
 - Spot network-wide stake anomalies
 - Detect unhealthy validator clusters
@@ -73,11 +73,7 @@ Zoom out. Discover long-term trust trends, validator consistency, and early sign
 
 ## 🖼️ Demo Snapshot
 
-Here’s a sneak peek 👇
-
-![Stake Movement Chart](https://placeholder.com/800x400)
-
-> 💡 Want a live walkthrough? Stay tuned for our interactive [demo video](https://your-demo-link.com).
+> 💡 Want a live walkthrough? Stay tuned for our interactive [demo video](https://drive.google.com/file/d/1m8mS2WUz_C56wPoTIDvojvKdqS-dL0gl/view?usp=drive_link).
 
 ---
 

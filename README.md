@@ -108,26 +108,21 @@ Tech stack:
 🎥 Walkthrough Demo
 Coming soon... ⏳
 
-🧠 Want early access to the video walkthrough and insights? Drop us a message here.
+
 
 🤝 Contributing
 We love contributions and collaboration. If you want to:
-
-Add a new visualization type
-
-Integrate deeper Solana data sources
-
-Improve performance or analytics logic
-
-Check out our contribution guidelines.
+Fork this repo
+Create your feature branch (git checkout -b feature/awesome-feature)
+Commit your changes (git commit -m 'Add amazing feature')
+Push to the branch (git push origin feature/awesome-feature)
+Open a pull request
 
 📣 Feedback, Support, & Ideas
 We're building this in public — with the community, for the community.
 
 🐛 Found a bug? Open an issue
-
 💡 Got ideas? Start a discussion
-
 👋 Just want to say hi? Tweet at us: https://x.com/Hitansh54 
 
 We’re listening. Let’s build a better Solana — together.
